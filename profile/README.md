@@ -1,6 +1,5 @@
 ## We are Afflua.
-A diverse team of engineers and investors aiming to create precedent setting financial software and infrastructure. 
-
+A diverse team of developers, mathemeticians, and investors aiming to create world class financial software and infrastructure.
 ## Information
 
 **Email**: support@afflua.info\
