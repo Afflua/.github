@@ -1,5 +1,5 @@
 ## We are Afflua.
-A diverse team of developers, mathematicians, and investors aiming to create world class financial software and infrastructure.
+A diverse team of developers, mathematicians, and investors developing quantiative trading infrastructure.
 ## Information
 
 **Email**: support@afflua.info\
